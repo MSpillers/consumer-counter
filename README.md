@@ -1,4 +1,4 @@
-# provider_demo
+# Consumer-Counter
 
 A new Flutter project.
 
